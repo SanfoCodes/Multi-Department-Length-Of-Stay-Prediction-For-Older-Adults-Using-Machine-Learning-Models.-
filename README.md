@@ -6,7 +6,7 @@ This research has been accepted for presentation at the **2026 International Soc
 This repository contains my graduate research project focused on predicting **hospital Length of Stay (LOS)** for **geriatric patients** using the **MIMIC-IV** clinical database. The project combines **relational data engineering in PostgreSQL** with **Python-based machine learning**, with an emphasis on ensemble and stacked models across multiple hospital departments.
 
 <p align="center">
-  <img src="process flow.png" width="750">
+  <img src="process flow.jpeg" width="750">
 </p>
 
 
